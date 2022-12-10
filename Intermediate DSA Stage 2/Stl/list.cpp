@@ -21,6 +21,7 @@ int main()
         cout<<i<<endl;
 
     }
+    cout<<"size of list : "<<l.size()<<endl;
 
 
 }

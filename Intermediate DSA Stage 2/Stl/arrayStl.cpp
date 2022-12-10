@@ -13,5 +13,5 @@ int main()
     cout<<"at scecond position :"<<a.at(3)<<endl;
     cout<<"check empty or not "<<a.empty()<<endl;
     cout<<"first number is :"<<a.front()<<endl;
-    cout<<"first number is :"<<a.back()<<endl;
+    cout<<"last  number is :"<<a.back()<<endl;
 }
